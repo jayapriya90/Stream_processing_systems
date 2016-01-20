@@ -15,4 +15,5 @@ Following techniques and concepts are important for efficient processing of data
 + Buffering and Latency
 + Fault-tolerance
 + Deployment and Execution
+
 This short survey compares various Stream processing systems based on the above mentioned criteria. 
